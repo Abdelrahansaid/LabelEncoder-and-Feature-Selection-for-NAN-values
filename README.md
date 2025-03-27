@@ -64,7 +64,7 @@ Evaluated using:
 - Hair et al. Multivariate Data Analysis
 
 ## Author
-Abdelrahman
+Abdelrahman Said Mohamed 
 ```
 
 This version is:
