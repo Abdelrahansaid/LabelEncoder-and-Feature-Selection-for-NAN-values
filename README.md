@@ -8,9 +8,9 @@ Predicting house prices using machine learning with data cleaning, feature selec
 
 ## Project Structure
 
-1. **Data Discovery & Cleaning**
-2. **Data Preparation**
-3. **Model Testing**
+1. Data Discovery & Cleaning**
+2. Data Preparation**
+3. Model Testing**
 
 ## Models Tested
 
@@ -37,7 +37,7 @@ Predicting house prices using machine learning with data cleaning, feature selec
 
 1. Clone repo:
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/Abdelrahansaid/house-price-prediction.git
 ```
 
 2. Install requirements:
