@@ -66,14 +66,3 @@ Evaluated using:
 ## Author
 Abdelrahman Said Mohamed 
 ```
-
-This version is:
-1. More concise
-2. Better formatted for GitHub
-3. Includes clear installation instructions
-4. Uses simple markdown that will render perfectly on GitHub
-
-Just copy and paste this directly into your README.md file. You may want to:
-- Replace the GitHub URL with your actual repo URL
-- Add your actual name if "Abdelrahman" isn't correct
-- Add any specific results you want to highlight
